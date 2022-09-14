@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Murder</h1>
 <h3 align="center">Developer in PY, HTML, CSS.</h3>
 
-- My feature rich and customisable [Ticket Bot]([https://discord.gg/BnAqD4JTP8](https://codefling.com/discord-bots/ticket-system))
+- My feature rich and customisable [Ticket Bot]([https://discord.gg/BnAqD4JTP8](https://codefling.com/discord-bots/ticket-system)
 
 - I'm an owner at [Hydra Rust Network](https://discord.gg/hydrarust)
 
