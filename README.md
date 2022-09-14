@@ -1,13 +1,13 @@
 <h1 align="center">Hello, I'm Murder</h1>
 <h3 align="center">Developer in PY, HTML, CSS.</h3>
 
-- I’m currently working on a fully customisable [Ticket Bot](https://discord.gg/BnAqD4JTP8)
+- My feature rich and customisable [Ticket Bot]([https://discord.gg/BnAqD4JTP8](https://codefling.com/discord-bots/ticket-system))
 
-- I'm an owner at [Bizzar](https://discord.gg/btm)
+- I'm an owner at [Hydra Rust Network](https://discord.gg/hydrarust)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/btm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="btm" height="30" width="40" /></a>
+<a href="https://discord.gg/hydrarust" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="btm" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
