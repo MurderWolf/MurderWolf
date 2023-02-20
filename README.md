@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Murder</h1>
-<h3 align="center">Developer in PY, HTML, CSS.</h3>
+<h3 align="center">Developer in PY, ReactJS</h3>
 
 - [Codefling](https://codefling.com/murder)
 
